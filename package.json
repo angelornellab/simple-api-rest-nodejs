@@ -1,0 +1,19 @@
+{
+  "name": "simple-api-rest-nodejs",
+  "version": "1.0.0",
+  "description": "simple api rest nodejs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "angel.ornellab",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
